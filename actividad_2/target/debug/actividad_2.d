@@ -1,0 +1,1 @@
+C:\Users\oscar\OneDrive\Documentos\Ingenieria\8\ semestre\Programacion\ de\ sistemas\ avanzados\Programas\actividad_2\target\debug\actividad_2.exe: C:\Users\oscar\OneDrive\Documentos\Ingenieria\8\ semestre\Programacion\ de\ sistemas\ avanzados\Programas\actividad_2\src\main.rs
